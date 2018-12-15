@@ -39,6 +39,40 @@ list_e=[1,3,2,5,0]
 list_e.sort()
 print(list_e)
 
-#
+#umgekehrt sortiert
 list_e.sort(reverse=True)
 print(list_e)
+
+#element löschen
+del list_e[1]
+print(list_e)
+
+#Laenge einer liste
+print(len(list_e))
+
+#Ist ELement in Liste entahlten
+print( 5 in list_e )
+
+#Loop über alle Element einer Liste
+for x in list_e:
+    print(x)
+
+#Loop über alle Element einer List
+for x in range(len(list_e)):
+    print(list_e[x])
+
+#minimum und maximum einer Liste
+print(max(list_e))
+print(min(list_e))
+
+#liste umkehren
+print(list_e)
+list_e.reverse()
+print(list_e)
+list_e=list_e[::-1]
+print(list_e)
+
+#tuple in Liste umwandeln
+tuple_a=(0,1,2,3)
+list_f=list(tuple_a)
+print(list_f)

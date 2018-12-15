@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="855638c6-f5a5-420b-bd12-3be2cee5927d" name="Default Changelist" comment="">
+    <list default="true" id="855638c6-f5a5-420b-bd12-3be2cee5927d" name="Default Changelist" comment="List stuff added">
+      <change afterPath="$PROJECT_DIR$/Dict_Sachen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File I_O.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToBeKnown.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToBeKnown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToBeKnown.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Sachen.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,33 +18,63 @@
     <session id="-32101411">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="734" />
+          <entry key="dummy" value="15" />
+          <entry key="py" value="2300" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="734" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="2300" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ToBeKnown.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/List_Sachen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dict_Sachen.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="472">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File I_O.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -76,6 +108,9 @@
       <list>
         <option value="$PROJECT_DIR$/classes.py" />
         <option value="$PROJECT_DIR$/ToBeKnown.py" />
+        <option value="$PROJECT_DIR$/Dict_Sachen.py" />
+        <option value="$PROJECT_DIR$/File I_O.py" />
+        <option value="$PROJECT_DIR$/Exceptions.py" />
       </list>
     </option>
   </component>
@@ -127,7 +162,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Exceptions">
+    <configuration name="Dict_Sachen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PruefungVorbereitung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dict_Sachen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PruefungVorbereitung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File I_O" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PruefungVorbereitung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File I_O.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ToBeKnown" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PruefungVorbereitung" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToBeKnown.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\thoma\PycharmProjects\PruefungVorbereitung\List_Sachen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,8 +247,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.ToBeKnown" />
+      <item itemvalue="Python.Dict_Sachen" />
+      <item itemvalue="Python.File I_O" />
+      <item itemvalue="Python.Exceptions" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exceptions" />
+        <item itemvalue="Python.File I_O" />
+        <item itemvalue="Python.Dict_Sachen" />
         <item itemvalue="Python.ToBeKnown" />
       </list>
     </recent_temporary>
@@ -166,6 +273,14 @@
       <option name="presentableId" value="Default" />
       <updated>1544879550889</updated>
     </task>
+    <task id="LOCAL-00001" summary="List stuff added">
+      <created>1544884078224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544884078224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -196,6 +311,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List stuff added" />
+    <option name="LAST_COMMIT_MESSAGE" value="List stuff added" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -207,10 +326,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ToBeKnown.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1206385963/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List_Sachen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dict_Sachen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File I_O.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
         </state>
       </provider>
     </entry>
