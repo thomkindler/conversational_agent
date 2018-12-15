@@ -38,3 +38,7 @@ print(list_e)
 list_e=[1,3,2,5,0]
 list_e.sort()
 print(list_e)
+
+#
+list_e.sort(reverse=True)
+print(list_e)
